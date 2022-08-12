@@ -7,6 +7,3 @@
 ## setting up symlinks
 - `cd ~/.dotfiles`
 - `stow .`
-
-## adding files
-- `stow --dir=~/.dotfiles --target=~/`
